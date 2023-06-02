@@ -9,17 +9,6 @@ Identity API is a microservice which is used for the creation and management of 
 * Beneficiary Management
 
 
-### Patient Visit Category
-* Ante natal care (ANC)
-* Post natal care (PNC)
-* Neonatal and infant health care services
-* Childhood and adolescent health care services including immunisation
-* Family planning, contraceptive services and other reproductive health care
-* Care for acute simple illnesses and minor ailments 
-* Management of communicable diseases
-* National health programs (General OPD)
-* Prevention, screening and management of non communicable diseases (NCD)
-
 ## Building From Source
 This microservice is built on Java, Spring boot framework and MySQL DB.
 
