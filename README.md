@@ -27,7 +27,7 @@ This service has been tested on Wildfly as the application server.
 * MySQL Database
 
 ## Integrations
-* RMNCH
+* RMNCH - Reproductive, Maternal, Newborn, and Child Health
 
 ## Usage
 All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.
